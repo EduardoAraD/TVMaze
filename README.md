@@ -51,3 +51,9 @@ yarn android
 |  Show Seasons   |   ![](docs/images/android/show-season.png)   |   ![](docs/images/ios/show-season.png)   |
 | Episode Details | ![](docs/images/android/episode-details.png) | ![](docs/images/ios/episode-details.png) |
 |   Drawer Menu   |   ![](docs/images/android/drawer-menu.png)   |   ![](docs/images/ios/drawer-menu.png)   |
+
+
+
+yarn test --testPathPattern=StarRating
+
+yarn test --testPathPattern=StarRating --coverage
